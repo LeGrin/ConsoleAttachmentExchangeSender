@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("SimpleExchangeEmailConsole")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("EPAM Systems")]
+[assembly: AssemblyCompany("LeGrin")]
 [assembly: AssemblyProduct("SimpleExchangeEmailConsole")]
-[assembly: AssemblyCopyright("Copyright © EPAM Systems 2018")]
+[assembly: AssemblyCopyright("Copyright © LeGrin")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
